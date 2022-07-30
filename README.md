@@ -11,7 +11,34 @@
 
 ---
 
+## Smart Contract Usage
 
+### Using setAccounts to define authorized withdrawal accounts
+![set authorized withdrawal accounts](images/1-setAccounts.png)
+
+### Deposits
+#### Depositing 1000000000000000000 wei (1 eth)
+![1000000000000000000 wei deposit](images/2_1-deposit1EthAsWei.png)
+#### Balance after deposit
+![balance ater 1000000000000000000 wei deposit](images/2_2-balance_after_1eth_deposit.png)
+#### Depositing 10000000000000000000 wei (10 eth)
+![10000000000000000000 wei deposit](images/2_3-deposit10EthAsWei.png)
+#### Balance after deposit
+![balance ater 10000000000000000000 wei deposit](images/2_4-balance_after_10eth_deposit.png)
+#### Depositing 5 eth
+![5 eth deposit](images/2_5-deposit5Eth.png)
+#### Balance after deposit
+![balance ater 5 eth deposit](images/2_6-balance_after_5eth_deposit.png)
+
+### Withdrawals
+#### Withdrawing 5 eth to accountOne
+![withdrawing 5 eth to accountOne](images/3_1-withdraw_5eth_account1.png)
+#### Balance, lastToWithdraw, lastWithdrawAmount after withdrawal
+![balance ater 5 eth withdrawal to accountOne](images/3_2-balance_after_withdraw_5eth_account1.png)
+#### Withdrawing 10 eth to accountTwo
+![withdrawing 10 eth to accountTwo](images/3_3-withdraw_10eth_account2.png)
+#### Balance, lastToWithdraw, lastWithdrawAmount after withdrawal
+![balance ater 10 eth withdrawal to accountTwo](images/3_4-balance_after_withdraw_10eth_account2.png)
 
 ---
 
